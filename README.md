@@ -1,3 +1,7 @@
+# PluralSight
+It's showing my progress going through [rxjs course](https://app.pluralsight.com/library/courses/rxjs-angular-reactive-development/table-of-contents)
+
+
 # RxjsAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.1.
